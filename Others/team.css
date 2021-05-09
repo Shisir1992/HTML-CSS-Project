@@ -1,0 +1,14 @@
+nav{
+    color: white;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: capitalize;    
+}
+.logo{
+    width: 25%;
+    text-align: left;
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 15px;
+}
